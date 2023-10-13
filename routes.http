@@ -1,4 +1,4 @@
-# @name getName
+# @name setName
 POST http://localhost:8080/users/
 Content-Type: application/json
 
@@ -6,4 +6,19 @@ Content-Type: application/json
   "name": "Pedro Dias",
   "username": "diaspd",
   "password": "1234"
+}
+
+###
+
+# @name setTask
+POST http://localhost:8080/tasks/
+Content-Type: application/json
+
+{
+  "description": "Tarefa de gravação de aulas",
+  "title": "Gravação",
+  "priority": "ALTA",
+  "startAt": "2023-10-14T12:00:00",
+  "endAt": "2023-10-14T15:35:00",
+  "idUser": "2b125c60-b5e3-4ff7-836b-192b3b1f09cf"
 }
