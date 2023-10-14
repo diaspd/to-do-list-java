@@ -1,5 +1,5 @@
 @baseUrlLocal = http://localhost:8080
-@baseUrlDeployed = http://localhost:8080 
+@baseUrlDeployed = https://todolist-java-3mnk.onrender.com
 
 # @name setUser
 POST {{baseUrlLocal}}/users/
