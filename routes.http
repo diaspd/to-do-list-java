@@ -19,8 +19,8 @@ Content-Type: application/json
   "description": "Tarefa de gravação de aulas",
   "title": "Gravação",
   "priority": "ALTA",
-  "startAt": "2023-10-14T12:00:00",
-  "endAt": "2023-10-14T15:35:00"
+  "startAt": "2023-10-15T12:00:00",
+  "endAt": "2023-10-15T15:35:00"
 }
 
 ###
@@ -41,7 +41,7 @@ Content-Type: application/json
 ###
 
 # @name editTasks
-PUT http://localhost:8080/tasks/963f693e-6a43-4835-be7e-7ce6b716078a
+PUT http://localhost:8080/tasks/
 Authorization: Basic diaspd:1234
 Content-Type: application/json
 
