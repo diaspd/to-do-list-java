@@ -37,3 +37,15 @@ Content-Type: application/json
   "startAt": "2023-10-14T12:00:00",
   "endAt": "2023-10-14T15:35:00"
 }
+
+###
+
+# @name editTasks
+PUT http://localhost:8080/tasks/963f693e-6a43-4835-be7e-7ce6b716078a
+Authorization: Basic diaspd:1234
+Content-Type: application/json
+
+{
+  "title": "Alterando Título da aula"
+}
+
