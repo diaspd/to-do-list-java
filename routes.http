@@ -1,5 +1,8 @@
+@baseUrlLocal = http://localhost:8080
+@baseUrlDeployed = http://localhost:8080 
+
 # @name setUser
-POST http://localhost:8080/users/
+POST {{baseUrlLocal}}/users/
 Content-Type: application/json
 
 {
@@ -11,7 +14,7 @@ Content-Type: application/json
 ###
 
 # @name setTask
-POST http://localhost:8080/tasks/
+POST {{baseUrlLocal}}/tasks/
 Authorization: Basic diaspd:1234
 Content-Type: application/json
 
@@ -26,7 +29,7 @@ Content-Type: application/json
 ###
 
 # @name getTasks
-GET http://localhost:8080/tasks/
+GET {{baseUrlLocal}}/tasks/
 Authorization: Basic diaspd:1234
 Content-Type: application/json
 
@@ -41,7 +44,7 @@ Content-Type: application/json
 ###
 
 # @name editTasks
-PUT http://localhost:8080/tasks/
+PUT {{baseUrlLocal}}/tasks/
 Authorization: Basic diaspd:1234
 Content-Type: application/json
 
