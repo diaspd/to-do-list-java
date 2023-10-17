@@ -11,7 +11,7 @@
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br></br>
+---
 
 ## 🚀 Getting started
 
