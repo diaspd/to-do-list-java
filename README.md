@@ -28,7 +28,7 @@ $ nvm install
 
 ```bash
 # development
-$ 
+$ mvn spring-boot:run
 ```
 
 <h2>Methods: </h2>
