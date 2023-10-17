@@ -7,8 +7,6 @@
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
----
-
 <br></br>
 
 ## 🚀 Getting started
@@ -16,7 +14,7 @@
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/diaspd/
+$ git clone https://github.com/diaspd/to-do-list-java.git
 $ cd 
 ```
 
