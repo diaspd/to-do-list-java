@@ -49,6 +49,7 @@ This project was developed with the following technologies:
 <b>
 Java
 h2
+spring boot
 </b>
 
 </br>
