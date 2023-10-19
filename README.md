@@ -50,6 +50,7 @@ This project was developed with the following technologies:
 Java
 h2
 spring boot
+mvn
 </b>
 
 </br>
