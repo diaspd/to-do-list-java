@@ -41,7 +41,7 @@ $ mvn spring-boot:run
 You can make your requests on file 'routes.http'
 ```
 
-<br></br>
+</br>
 
 ## 💻 Technologies
 
