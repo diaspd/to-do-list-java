@@ -56,7 +56,7 @@ This project was developed with the following technologies:
 </br>
 
 ## 📄 Project
-💰 Project back-end made in Java to make requests of tasks.
+💰 Project back-end made in Java to make requests on tasks.
 
 <br></br>
 
